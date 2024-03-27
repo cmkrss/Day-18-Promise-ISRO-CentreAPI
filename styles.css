@@ -1,0 +1,22 @@
+/* Add your CSS styles here */
+.container {
+    margin-top: 50px;
+  }
+  
+  .center-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .center-name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .center-location {
+    font-size: 14px;
+    color: #666;
+  }
+  
